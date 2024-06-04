@@ -1,0 +1,11 @@
+#imageContainer {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.imageItem {
+    border: 1px solid #ccc;
+    padding: 5px;
+
+}
